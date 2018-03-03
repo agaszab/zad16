@@ -5,6 +5,4 @@ SmartHome smartHome=new SmartHome();
 smartHome.home();
     }
 
-
-
 }
