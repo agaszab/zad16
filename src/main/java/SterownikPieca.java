@@ -1,3 +1,6 @@
+import org.springframework.stereotype.Component;
+
+@Component
 public class SterownikPieca {
 
     private boolean stanPieca=false;

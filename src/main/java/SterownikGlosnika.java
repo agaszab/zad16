@@ -1,3 +1,6 @@
+import org.springframework.stereotype.Component;
+
+@Component
 public class SterownikGlosnika {
 
     public SterownikGlosnika(int temp, String oswietlenie) {
