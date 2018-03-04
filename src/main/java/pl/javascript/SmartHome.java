@@ -18,9 +18,9 @@ public class SmartHome {
     }
 
     public void home() {
-        sterownikGlosnika.glosnik(stacjaPogodowa.getTemperatura(),stacjaPogodowa.getOswietlenie());
-        sterownikRolet.rolety(stacjaPogodowa.getOswietlenie());
-        sterownikPieca.piec(stacjaPogodowa.getTemperatura());
+        sterownikGlosnika.glosnik();
+        sterownikRolet.rolety();
+        sterownikPieca.piec();
     }
 
 }
