@@ -1,3 +1,5 @@
+package pl.javascript;
+
 import org.springframework.stereotype.Component;
 
 @Component
